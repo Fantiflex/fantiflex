@@ -12,12 +12,6 @@ Riemannian L-BFGS inner solver for the Muon optimizer, with experiments on MLPs,
 **Ulm26**  
 Behavioral experiment and analysis pipeline using Bradley-Terry models, computer vision, and controlled visual stimuli.
 
-**EEG-Guided Visual Stimulation**  
-Signal processing pipeline for 16-channel EEG data, including filtering, spectral analysis, and stimulation mapping.
-
-**Same Symptoms, Different Advice**  
-Intersectional audit of demographic differences in AI-generated mental health support.
-
 ## Tools
 
 Python · PyTorch · NumPy · SciPy · Polars · scikit-learn · OpenCV · MediaPipe · MATLAB · C++ · Git

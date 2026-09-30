@@ -1,16 +1,27 @@
-## Hi there 👋
+# Fantine Mpacko Priso
 
-<!--
-**Fantiflex/fantiflex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate student in Computer Science and Mathematics at UC Berkeley and Université Paris-Saclay.
 
-Here are some ideas to get you started:
+Interested in machine learning, optimization, computational health, neuroscience, and human-centered AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+**Modular Manifold Muon**  
+Riemannian L-BFGS inner solver for the Muon optimizer, with experiments on MLPs, CNNs, and Vision Transformers.
+
+**Minority Estimation / Face Reconstruction**  
+Behavioral experiment and analysis pipeline using Bradley-Terry models, computer vision, and controlled visual stimuli.
+
+**EEG-Guided Visual Stimulation**  
+Signal processing pipeline for 16-channel EEG data, including filtering, spectral analysis, and stimulation mapping.
+
+**Same Symptoms, Different Advice**  
+Intersectional audit of demographic differences in AI-generated mental health support.
+
+## Tools
+
+Python · PyTorch · NumPy · SciPy · Polars · scikit-learn · OpenCV · MediaPipe · MATLAB · C++ · Git
+
+## Links
+
+[GitHub](https://github.com/Fantiflex)

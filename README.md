@@ -19,3 +19,4 @@ Python · PyTorch · NumPy · SciPy · Polars · scikit-learn · OpenCV · Media
 ## Links
 
 [GitHub](https://github.com/Fantiflex)
+[Linkedin]([https://github.com/Fantiflex](https://www.linkedin.com/in/fantine-mpacko-priso-448474168/))

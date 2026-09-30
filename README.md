@@ -1,6 +1,6 @@
 # Fantine Mpacko Priso
 
-Graduate student in Computer Science and Mathematics at UC Berkeley and Université Paris-Saclay.
+Graduate student in Computer Science @ UC Berkeley and ENS Paris-Saclay.
 
 Interested in machine learning, optimization, computational health, neuroscience, and human-centered AI.
 
@@ -9,7 +9,7 @@ Interested in machine learning, optimization, computational health, neuroscience
 **Modular Manifold Muon**  
 Riemannian L-BFGS inner solver for the Muon optimizer, with experiments on MLPs, CNNs, and Vision Transformers.
 
-**Minority Estimation / Face Reconstruction**  
+**Ulm26**  
 Behavioral experiment and analysis pipeline using Bradley-Terry models, computer vision, and controlled visual stimuli.
 
 **EEG-Guided Visual Stimulation**  

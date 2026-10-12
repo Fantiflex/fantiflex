@@ -2,7 +2,7 @@
 
 Graduate student in Computer Science @ UC Berkeley and ENS Paris-Saclay.
 
-Interested in machine learning, optimization, computational health, neuroscience, and human-centered AI.
+Interested in machine learning, computational health, neuroscience, and human-centered AI.
 
 ## Selected work
 

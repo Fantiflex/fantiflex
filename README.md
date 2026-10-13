@@ -15,9 +15,6 @@ Riemannian L-BFGS inner solver for the Muon optimizer, with experiments on MLPs,
 **Minority Estimation**  
 Behavioral experiment studying minority proportion estimation with controlled social and non-social visual stimuli, including stimulus generation, experimental deployment, and analysis tooling.
 
-**Interactive ML Map**  
-Interactive visual explanations of optimization concepts including gradient descent, momentum, RMSProp, Adam, and orthogonalization.
-
 **UFO.recordz**  
 Full-stack website and data infrastructure for an independent music label, built with React, TypeScript, Tailwind, Supabase, and Vercel.
 

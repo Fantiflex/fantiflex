@@ -1,0 +1,7 @@
+1) I initially stored event lineups in fixed artist columns in Supabase. It seemed simpler, until maintaining relationships and querying artists became painful. I moved to a normalized event_artists junction table with foreign keys, then fixed the permissions needed for public reads. I learned that a quick schema is only simple until the product grows.
+
+2) I went beyond my research responsibilities to build and deploy an open-source platform for two behavioral studies, Face Reconstruction and Minority Overestimation, using Streamlit and JATOS. What started as a personal initiative became shared infrastructure for the entire research team, simplifying experiment deployment and making our workflows more accessible and reproducible.
+
+3) I used to ask LLMs for whole-file rewrites while building React projects. I found those changes harder to review and sometimes introduced unrelated errors. Now I use them for scoped changes, inspect the diff, run TypeScript checks and builds, and commit incrementally. The goal shifted from generating more code to keeping control of the system.
+
+4) As a student leader, I helped coordinate events of up to 2,500 people and budgets near €100K. In engineering, I apply the same discipline: define ownership, separate concerns, make data flows explicit, document decisions, and verify changes before merging. I see systems work as making complexity legible enough that others can build on it.

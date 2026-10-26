@@ -1,6 +1,6 @@
 # Fantine Mpacko Priso
 
-Graduate student in Computer Science at UC Berkeley and ENS Paris-Saclay.
+Msc leave from UC Berkeley and ENS Paris-Saclay.
 
 Interested in machine learning, computational health, neuroscience, and human-centered AI.
 

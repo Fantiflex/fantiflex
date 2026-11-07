@@ -2,7 +2,7 @@
 
 Msc leave from UC Berkeley and ENS Paris-Saclay.
 
-Interested in machine learning, computational health, neuroscience, and human-centered AI.
+Interested in machine learning, computational health, and human-centered AI.
 
 ## Selected work
 

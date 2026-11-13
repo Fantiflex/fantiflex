@@ -9,7 +9,7 @@ Interested in machine learning, computational health, and human-centered AI.
 **[Ear-to-Scalp EEG Reconstruction](https://github.com/Fantiflex/ear-to-scalp-eeg)**  
 Deep learning framework for reconstructing scalp EEG from wearable ear-EEG recordings using a Temporal Conformer with self-attention and temporal convolutions. Includes reproducible PyTorch pipelines, missing-channel handling, and cross-subject evaluation. *Ongoing project.*
 
-**Face Reconstruction**  
+**[Face Reconstruction](https://github.com/Fantiflex/Face-reconstruction)**  
 Participant-specific facial prototype reconstruction from pairwise judgments using Bradley–Terry models, MediaPipe landmarks, similarity alignment, Delaunay triangulation, and piecewise-affine morphing.
 
 **[Modular Manifold Muon](https://github.com/Fantiflex/Modular_Manifold_Muon)**

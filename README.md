@@ -15,10 +15,10 @@ Participant-specific facial prototype reconstruction from pairwise judgments usi
 **[Modular Manifold Muon](https://github.com/Fantiflex/Modular_Manifold_Muon)**
 Riemannian L-BFGS inner solver for the Muon optimizer, with experiments on MLPs, CNNs, and Vision Transformers.
 
-**Minority Estimation**  
+**[Minority Estimation](https://github.com/Fantiflex/Ulm26)**  
 Behavioral experiment studying minority proportion estimation with controlled social and non-social visual stimuli, including stimulus generation, experimental deployment, and analysis tooling.
 
-**UFO.recordz**  
+**[UFO.recordz](https://github.com/Fantiflex/UFO.recordz)**  
 Full-stack website and data infrastructure for an independent music label, built with React, TypeScript, Tailwind, Supabase, and Vercel.
 
 ## Tools

@@ -12,7 +12,7 @@ Deep learning framework for reconstructing scalp EEG from wearable ear-EEG recor
 **Face Reconstruction**  
 Participant-specific facial prototype reconstruction from pairwise judgments using Bradley–Terry models, MediaPipe landmarks, similarity alignment, Delaunay triangulation, and piecewise-affine morphing.
 
-**Modular Manifold Muon**  
+**[Modular Manifold Muon](https://github.com/Fantiflex/Modular_Manifold_Muon)**
 Riemannian L-BFGS inner solver for the Muon optimizer, with experiments on MLPs, CNNs, and Vision Transformers.
 
 **Minority Estimation**  

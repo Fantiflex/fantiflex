@@ -7,7 +7,7 @@ Interested in machine learning, computational health, and human-centered AI.
 ## Selected work
 
 **[Ear-to-Scalp EEG Reconstruction](https://github.com/Fantiflex/ear-to-scalp-eeg)**  
-Deep learning framework for reconstructing scalp EEG from wearable ear-EEG recordings using a Temporal Conformer with self-attention and temporal convolutions. Includes reproducible PyTorch pipelines, missing-channel handling, and cross-subject evaluation. *Ongoing project.*
+Research project investigating the reconstruction of 29-channel scalp EEG from 12-channel wearable in-ear EEG using Temporal and Spatial Conformers. Developed reproducible PyTorch pipelines for EEG preprocessing, missing-channel handling, and subject-independent evaluation across 15 participants. Investigating cross-subject generalization, signal artifacts, and amplitude attenuation, with ongoing experiments on lightweight subject-specific calibration to improve reconstruction fidelity. Ongoing project.
 
 **[Face Reconstruction](https://github.com/Fantiflex/Face-reconstruction)**  
 Participant-specific facial prototype reconstruction from pairwise judgments using Bradley–Terry models, MediaPipe landmarks, similarity alignment, Delaunay triangulation, and piecewise-affine morphing.
